@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 void printPascalRow(int n) {
-
+/* TODO: FIX THAT UGLY PEACE OF CODE*/
 	const char dev = ' ';
 	int last = 1;
 	cout << last << dev << dev;
