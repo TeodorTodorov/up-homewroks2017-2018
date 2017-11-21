@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\tedo\documents\visual studio 2015\projects\25-octomber-up-20172018\source.cpp(110): warning C4101: 'middle': unreferenced local variable
+c:\users\tedo\documents\visual studio 2015\projects\25-octomber-up-20172018\source.cpp(132): warning C4101: 'a': unreferenced local variable
+c:\users\tedo\documents\visual studio 2015\projects\25-octomber-up-20172018\source.cpp(132): warning C4101: 'b': unreferenced local variable
+c:\users\tedo\documents\visual studio 2015\projects\25-octomber-up-20172018\source.cpp(132): warning C4101: 'c': unreferenced local variable
+c:\users\tedo\documents\visual studio 2015\projects\25-octomber-up-20172018\source.cpp(133): warning C4101: 'op': unreferenced local variable
+  25-octomber-up-20172018.vcxproj -> c:\users\tedo\documents\visual studio 2015\Projects\25-octomber-up-20172018\Debug\25-octomber-up-20172018.exe
+  25-octomber-up-20172018.vcxproj -> c:\users\tedo\documents\visual studio 2015\Projects\25-octomber-up-20172018\Debug\25-octomber-up-20172018.pdb (Partial PDB)

@@ -72,6 +72,7 @@ bool isPrime(int _n) {
 	{
 		if (_n %i == 0) {
 			return false;
+
 		}
 	}
 	return true;

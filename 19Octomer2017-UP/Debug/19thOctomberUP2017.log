@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\tedo\documents\visual studio 2015\projects\19thoctomberup2017\source.cpp(29): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\tedo\documents\visual studio 2015\projects\19thoctomberup2017\source.cpp(33): warning C4552: '>=': operator has no effect; expected operator with side-effect
+c:\users\tedo\documents\visual studio 2015\projects\19thoctomberup2017\source.cpp(35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  19thOctomberUP2017.vcxproj -> c:\users\tedo\documents\visual studio 2015\Projects\19thOctomberUP2017\Debug\19thOctomberUP2017.exe
+  19thOctomberUP2017.vcxproj -> c:\users\tedo\documents\visual studio 2015\Projects\19thOctomberUP2017\Debug\19thOctomberUP2017.pdb (Partial PDB)

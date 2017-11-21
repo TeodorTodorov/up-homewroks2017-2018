@@ -1,0 +1,5 @@
+﻿  source.cpp
+c:\users\tedo\documents\visual studio 2015\projects\16thoctomber2017-praktikum-chetvurtuk\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\tedo\documents\visual studio 2015\projects\16thoctomber2017-praktikum-chetvurtuk\source.cpp(137): warning C4715: 'toUpper': not all control paths return a value
+  16thOctomber2017-praktikum-chetvurtuk.vcxproj -> C:\Users\Tedo\documents\visual studio 2015\Projects\16thOctomber2017-praktikum-chetvurtuk\Debug\16thOctomber2017-praktikum-chetvurtuk.exe
+  16thOctomber2017-praktikum-chetvurtuk.vcxproj -> C:\Users\Tedo\documents\visual studio 2015\Projects\16thOctomber2017-praktikum-chetvurtuk\Debug\16thOctomber2017-praktikum-chetvurtuk.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\tedo\documents\visual studio 2015\projects\homework2\source.cpp(44): warning C4018: '<=': signed/unsigned mismatch
+  Homework2.vcxproj -> c:\users\tedo\documents\visual studio 2015\Projects\Homework2\Debug\Homework2.exe
+  Homework2.vcxproj -> c:\users\tedo\documents\visual studio 2015\Projects\Homework2\Debug\Homework2.pdb (Partial PDB)
